@@ -1,0 +1,33 @@
+body {
+  background-color: black;
+}
+
+.ui.borderless.topicons.menu {
+  border-radius: 0px;
+  margin: 0px;
+  background-color: black
+}
+
+.ui.borderless.topmenu.menu {
+  box-shadow: none;
+  border: none;
+  border-radius: 0px;
+  margin: 0px;
+  background-color: black
+}
+
+.facebook.f.icon {
+  color: white;
+}
+
+.twitter.icon {
+  color: white;
+}
+
+.instagram.icon {
+  color: white;
+}
+
+.tripadvisor.icon {
+  color: white;
+}
